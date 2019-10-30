@@ -1,0 +1,27 @@
+
+body{
+	background-color: gold;
+}
+
+.waw{
+	color: 00FFFF;
+	font-size: 48px;
+	text-align: center;
+
+
+}
+
+
+.cool{
+	
+	color: DA70D6;
+	margin: 5px;
+	font-style: italic;
+	font-size: 28px;
+}
+
+
+.two {
+  list-style: square inside;
+  color: 00FFFF;
+}
