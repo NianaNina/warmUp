@@ -1,7 +1,8 @@
 /*
 Say you have an array for which the i element is the price of a given stock on day i.
+If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock),
+ design an algorithm to find the maximum profit.
 
-If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock), design an algorithm to find the maximum profit.
 
 Note that you cannot sell a stock before you buy one.
 
@@ -18,6 +19,18 @@ Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
 */
 
+ 
+
+
 var maxProfit = function(prices) {
-  // YOUR CODE HERE
-};
+
+	var element = [i];
+	var day = elemnt ;
+	var prices = elemnt + 1;
+
+ 	};
+
+
+ //1. [i] element = price of a given stock on day i
+ //2. one transaction (i.e) ===>buy one and sell one share of the stock
+ //3. should buying before selling
