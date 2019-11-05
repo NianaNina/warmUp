@@ -4,3 +4,11 @@
 //
 //
 // Note : you can`t use any built-in functions .
+
+function reverse(str){
+  let reversed = " ";    
+  for (var i = str.length - 1; i >= 0; i--){        
+    reversed += str[i];
+  }    
+  return reversed;
+}
