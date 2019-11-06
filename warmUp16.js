@@ -16,3 +16,21 @@
 // Constraints:
 // 1 <= text.length <= 10^4
 // text consists of lower case English letters only.
+
+		var str = ["balloon"];
+
+		function string(text) {
+		  newarry = text.split("");
+		  result = [];
+
+		  str = newarr.length;
+		  for (i = str; i > -1; i--) {
+		    result.push(newarr[i]);
+		  }
+		
+		  str = result.join("");
+		  return text;
+		}
+
+
+
